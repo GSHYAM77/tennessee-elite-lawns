@@ -1,0 +1,7 @@
+# Landscaping Landing Site
+
+Deploy steps:
+- Create GitHub repo for landscaping-site
+- Push code, connect to Vercel for previews
+- Set domain to the Vercel project
+- Local preview: open index.html
